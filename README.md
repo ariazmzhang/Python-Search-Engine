@@ -1,5 +1,3 @@
-Name: Aria Zhang
-
 RavenRavenGo is a web crawler and a search engine, it will first crawl the website the you provide, crawling all the necessary data and then output the best 10 websites that are most related to your needs.
 
 
